@@ -1,0 +1,6 @@
+# .gitignore
+#
+# SPDX-FileCopyrightText: Copyright (C) 2024 Frank C Langbein <frank@langbein.org>, Cardiff University
+# SPDX-License-Identifier: CC-BY-SA-4.0
+*.pyc
+__pycache__
