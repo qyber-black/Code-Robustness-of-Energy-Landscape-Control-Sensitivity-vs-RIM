@@ -1,0 +1,3 @@
+[submodule "results"]
+	path = results
+	url = git@qyber.black:spinnet/robustness/results-robustness-of-energy-landscape-control-sensitivity-vs-rim.git
